@@ -1,3 +1,5 @@
+These scripts were used in Kabulska et al., 2024 (Human Brain Mapping)
+
 Last change: 09.08.2023 ZK
 
 To run all the analysis, you additionally need the CoSMoMVPA toolbox (https://www.cosmomvpa.org/)
